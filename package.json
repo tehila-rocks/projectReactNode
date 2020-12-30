@@ -1,0 +1,19 @@
+{
+  "name": "rec-proj",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "email-validator": "^2.0.4",
+    "express": "~4.16.1",
+    "hbs": "~4.0.4",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "opn": "^6.0.0",
+    "phone": "^2.4.17"
+  }
+}
